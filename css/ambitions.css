@@ -1,0 +1,33 @@
+body{
+	
+
+margin:0;
+margin-top:150px;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#2e544a+0,bcd3e5+100 */
+background: #2e544a; /* Old browsers */
+background: -moz-linear-gradient(-45deg,  #2e544a 0%, #bcd3e5 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg,  #2e544a 0%,#bcd3e5 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg,  #2e544a 0%,#bcd3e5 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2e544a', endColorstr='#bcd3e5',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	
+
+}
+.band{
+	text-indent: 200px;
+	width: 100%;
+	background-color: #004c4d;
+	color: #f2f2f2;
+	line-height: 2.0;
+	
+}
+h1{
+	
+	line-height: 2.0;
+
+}
+p{
+	margin-left: 100px;
+	padding:20px;
+	margin-right:250px; 
+	font-family: 'Libre Baskerville', serif;
+}
